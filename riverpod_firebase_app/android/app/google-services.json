@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "297439262450",
+    "project_id": "memos-8815a",
+    "storage_bucket": "memos-8815a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297439262450:android:2c1dc67976975385c3426b",
+        "android_client_info": {
+          "package_name": "com.example.memo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWemlm5MGorYntauFBESCuq3eA_Ry368"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297439262450:android:e279e7c0bed39f68c3426b",
+        "android_client_info": {
+          "package_name": "com.example.memos_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWemlm5MGorYntauFBESCuq3eA_Ry368"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297439262450:android:347ae2d3a8682229c3426b",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWemlm5MGorYntauFBESCuq3eA_Ry368"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,56 @@
+############################
+# Dart / Flutter
+############################
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+
+############################
+# IDE
+############################
+.idea/
+.vscode/
+*.iml
+
+############################
+# Android
+############################
+**/android/.gradle/
+**/android/local.properties
+**/android/key.properties
+**/android/app/debug.keystore
+
+############################
+# iOS
+############################
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/App.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+############################
+# macOS / Windows / Linux
+############################
+**/.DS_Store
+**/Thumbs.db
+**/*.log
+
+############################
+# Web
+############################
+**/build/web/
+
+############################
+# Test / Coverage
+############################
+coverage/
+
+############################
+# Environment files
+############################
+.env
+.env.*
