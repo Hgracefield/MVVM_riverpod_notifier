@@ -13,7 +13,6 @@
 - Git push 전 변경 파일 확인 필수
 - 본인 작업과 무관한 파일은 제외 후 커밋
 
-
 # slack 주소 :  
  https://app.slack.com/client/T0A606QRXBN/C0A5F5Q1S31
 
@@ -49,7 +48,6 @@
 - Miro
 - Slack
 - Google Sheets
-
 
 ## 실행 방법
 1. 패키지 설치
